@@ -1,6 +1,7 @@
 # Introduction
 Basic password generator from string :).
-You can select from different methods.
+- You can select from different methods.
+- Easy to remember
 
 # How to use
 - Download the repo
