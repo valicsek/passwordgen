@@ -11,7 +11,7 @@ You can select from different methods.
 Let me give you an example. You have the following sentence
 ```
 I love bears
-``
+```
 
 Then the output will be the following one with method1:
 ```
